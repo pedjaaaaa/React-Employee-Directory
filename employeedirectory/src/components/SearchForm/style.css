@@ -1,0 +1,16 @@
+form.search {
+  overflow: auto;
+  margin-bottom: 10px;
+}
+
+form.search button[type="submit"] {
+  float: right;
+  margin-top: 10px;
+}
+
+.title {
+  font-family: 'Times New Roman', Times, serif;
+  font-style: bold;
+  font-size: 5em;
+  color: darkblue;
+}
