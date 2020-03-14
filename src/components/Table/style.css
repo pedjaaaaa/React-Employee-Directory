@@ -1,0 +1,11 @@
+.titleNav {
+    color: darkblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 4em;
+    text-align: center;
+    background: lightcyan;
+}
+
+#root {
+    background: lightcyan;
+}
